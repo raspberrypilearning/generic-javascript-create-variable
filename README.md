@@ -1,0 +1,1 @@
+# generic-javascript-create-variable
