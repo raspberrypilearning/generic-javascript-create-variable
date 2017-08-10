@@ -1,19 +1,15 @@
-## Introduction
+A variable allows you to store data within a program. Variables have a name and a value.
 
-Add project description here. What will learners be making?
+This variable has the name animal and the value cat:
 
-### What you will make
+```javascript
+var animal = "cat";
+```
 
-Add something here to showcase here, for example:
+This variable has the name score and the value 30:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+```javascript
+var score = 30;
+```
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+To create a variable, give it a name and set it equal to a value. The name of the variable always goes after `var` and must not contain any spaces.   
