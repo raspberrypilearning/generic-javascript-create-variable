@@ -1,0 +1,14 @@
+title: 在 JavaScript 中创建一个变量
+hero_image: images/banner.png
+description: 学习如何在 JavaScript 中创建变量
+theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 # possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: ""
+site_areas:
+steps:
+  - title: 介绍
