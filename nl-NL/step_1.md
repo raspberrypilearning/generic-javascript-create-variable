@@ -12,4 +12,4 @@ Deze variabele heeft de naam `score` en de waarde `30`:
 var score = 30;
 ```
 
-Als je een variabele wilt maken, geeft je deze een naam en stelt je deze in op een waarde. De naam van de variabele komt altijd na `var`en mag geen spaties bevatten.
+Om een variabele te maken, typ je een naam, een gelijkheidsteken en een waarde. De naam van de variabele komt altijd na `var` en mag geen spaties bevatten.
