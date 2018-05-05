@@ -1,6 +1,6 @@
 Una variable te permite almacenar datos dentro de un programa. Las variables tienen un nombre y un valor.
 
-Esta variable tiene el nombre | 123_6_0_321 | animal | 123_7_1_321 | y el valor | 123_6_2_321 | "cat" | 123_7_3_321 |:
+Esta variable tiene el nombre `animal` y el valor `"gato"`:
 
 ```javascript
 var animal = "gato";
