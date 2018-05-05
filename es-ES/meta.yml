@@ -1,7 +1,7 @@
 ---
 title: Crea una variable en JavaScript
 hero_image: images / banner.png
-description: Aprenda cómo crear una variable en JavaScript
+description: Aprende cómo crear una variable en JavaScript
 theme: rojo
 duration: 1
 listed: false
@@ -10,7 +10,7 @@ copyedit: true
 curriculum: creador, diseño-0, programación-0, phys-comp-0, fabricación-0, comunidad-0
 interests: ""
 technologies: ""
-site_areas: ""
+site_areas:
 steps:
   - 
     title: Introducción
