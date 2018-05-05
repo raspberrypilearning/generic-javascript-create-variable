@@ -1,5 +1,5 @@
 ---
-title: Erstellen Sie eine Variable in JavaScript
+title: Eine Variable in JavaScript erstellen
 hero_image: images/banner.png
 description: So erstellst du eine Variable in JavaScript
 theme: red
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Einführung
+    title: Einleitung
