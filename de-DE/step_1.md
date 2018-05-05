@@ -6,7 +6,7 @@ Diese Variable hat den Namen | 123_6_0_321 | animal | 123_7_1_321 | und der Wert
 var animal = "Katze";
 ```
 
-Diese Variable hat den Namen | 123_6_0_321 | score | 123_7_1_321 | und der Wert | 123_6_2_321 | 30 | 123_7_3_321 |:
+Diese Variable hat den Namen `Punkte` und den Wert `30`:
 
 ```javascript
 var Punktzahl = 30;
