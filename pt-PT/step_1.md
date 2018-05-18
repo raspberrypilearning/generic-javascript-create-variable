@@ -9,7 +9,7 @@ var animal = "gato";
 Esta variável tem o nome `pontuação` e o valor `30`:
 
 ```javascript
-pontuação var = 30;
+var pontuação = 30;
 ```
 
-Para criar uma variável, atribua-lhe um nome e configure-o igual a um valor. O nome da variável sempre segue após `var`, e não deve conter nenhum espaço.
+Para criar uma variável, dá-lhe um nome e atribui-lhe um valor. O nome da variável vem sempre a seguir a `var`, e não deve conter nenhum espaço.
