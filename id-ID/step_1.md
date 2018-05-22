@@ -1,15 +1,15 @@
-Variabel memungkinkan Anda menyimpan data dalam sebuah program. Variabel memiliki nama dan nilai.
+Sebuah variabel memungkinkan Kamu untuk menyimpan data dalam sebuah program. Variabel memiliki nama dan nilai.
 
-Variabel ini memiliki nama binatang `` dan nilai `"kucing"`:
+Variabel ini memiliki nama `binatang` dan nilai `"kucing"`:
 
 ```javascript
-var animal = "cat";
+var binatang = "kucing";
 ```
 
 Variabel ini memiliki nama `skor` dan nilai `30`:
 
 ```javascript
-skor var = 30;
+var skor = 30;
 ```
 
-Untuk membuat variabel, beri nama dan set nilainya sama dengan nilai. Nama variabel selalu berjalan setelah `var`, dan tidak boleh berisi spasi.
+Untuk membuat sebuah variabel, beri nama dan berikan nilainya setelah simbol sama dengan. Nama variabel selalu berada setelah `var`, dan tidak boleh memiliki spasi.
