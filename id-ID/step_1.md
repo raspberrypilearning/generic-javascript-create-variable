@@ -1,9 +1,9 @@
 Sebuah variabel memungkinkan Kamu untuk menyimpan data dalam sebuah program. Variabel memiliki nama dan nilai.
 
-Variabel ini memiliki nama `binatang` dan nilai `"kucing"`:
+Variabel ini memiliki nama `hewan` dan nilai `"kucing"`:
 
 ```javascript
-var binatang = "kucing";
+var hewan = "kucing";
 ```
 
 Variabel ini memiliki nama `skor` dan nilai `30`:
