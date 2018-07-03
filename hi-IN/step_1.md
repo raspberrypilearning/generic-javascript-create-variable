@@ -1,15 +1,15 @@
-A variable allows you to store data within a program. Variables have a name and a value.
+एक वेरिएबल आपको एक प्रोग्राम के भीतर डेटा को स्टोर करने की अनुमति देता है। वेरिएबल का एक नाम और एक मान होता है।
 
-This variable has the name `animal` and the value `"cat"`:
-
-```javascript
-var animal = "cat";
-```
-
-This variable has the name `score` and the value `30`:
+इस वेरिएबल का नाम `जानवर` है और मान `"बिल्ली"` है:
 
 ```javascript
-var score = 30;
+var जानवर = "बिल्ली";
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes after `var`, and it must not contain any spaces.
+इस वेरिएबल का नाम `स्कोर` है और मान `30` है:
+
+```javascript
+var स्कोर = 30;
+```
+
+एक वेरिएबल बनाने के लिए, इसे एक नाम दें और कोई मान सेट करें। वेरिएबल का नाम हमेशा `var` के बाद लिखा जाता है, और इसमें कोई स्पेस नहीं होना चाहिए।
