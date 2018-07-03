@@ -1,8 +1,8 @@
 ---
-title: Create a variable in JavaScript
+title: JavaScript में वेरिएबल बनाएँ
 hero_image: images/banner.png
-description: Learn how to create a variable in JavaScript
-theme: red
+description: JavaScript में वेरिएबल बनाना सीखें
+theme: लाल
 duration: 1
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: भूमिका
