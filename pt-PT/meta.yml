@@ -1,7 +1,7 @@
 ---
-title: إنشاء متغير في لغة JavaScript
-hero_image: images/banner.png
-description: تعلَّم كيف تنشئ متغيّر في لغة JavaScript
+title: Criar uma variável em JavaScript
+hero_image: imagens/banner.png
+description: Aprende a criar uma variável em JavaScript
 theme: red
 duration: 1
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 site_areas:
 steps:
-  - title: مقدمة
+  - title: Introdução
