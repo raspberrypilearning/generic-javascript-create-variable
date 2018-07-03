@@ -1,7 +1,7 @@
 ---
-title: إنشاء متغير في لغة JavaScript
+title: Создание переменной в JavaScript
 hero_image: images/banner.png
-description: تعلَّم كيف تنشئ متغيّر في لغة JavaScript
+description: Узнай, как создать переменную в JavaScript
 theme: red
 duration: 1
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 site_areas:
 steps:
-  - title: مقدمة
+  - title: Введение
