@@ -1,8 +1,8 @@
 ---
-title: JavaScript में वेरिएबल बनाएँ
+title: JavaScriptで変数を作成する
 hero_image: images/banner.png
-description: JavaScript में वेरिएबल बनाना सीखें
-theme: लाल
+description: JavaScriptで変数を作成する方法を学ぶ
+theme: red
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 site_areas:
 steps:
-  - title: भूमिका
+  - title: 前書き
