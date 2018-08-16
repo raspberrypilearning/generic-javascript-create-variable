@@ -1,7 +1,7 @@
 ---
-title: Create a variable in JavaScript
+title: Kreiraj promjenljivu u JavaScript-u
 hero_image: images/banner.png
-description: Learn how to create a variable in JavaScript
+description: Nauči kako da kreiraš promjenljivu u JavaScript-u
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Uvod
