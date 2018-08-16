@@ -1,15 +1,15 @@
-A variable allows you to store data within a program. Variables have a name and a value.
+Promjenljiva omogućuje skladištenje podataka unutar programa. Promjenljive imaju naziv i vrijednost.
 
-This variable has the name `animal` and the value `"cat"`:
-
-```javascript
-var animal = "cat";
-```
-
-This variable has the name `score` and the value `30`:
+Ova promjenljiva ima naziv `zivotinja` i vrijednost `macka`:
 
 ```javascript
-var score = 30;
+var zivotinja = "macka";
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes after `var`, and it must not contain any spaces.
+Ova promjenljiva ima naziv `rezultat` i vrijednost `30`:
+
+```javascript
+var rezultat = 30;
+```
+
+Da kreiraš promjenljivu, daj joj naziv i postavi da je jednaka nekoj vrijednosti. Naziv promjenljive uvijek se piše nakon `var` i ne smije da sadrži razmake.
