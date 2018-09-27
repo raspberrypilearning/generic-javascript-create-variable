@@ -1,15 +1,15 @@
 Bir değişken, verileri bir program içinde saklamanıza olanak tanır. Değişkenlerin bir adı ve bir değeri vardır.
 
-Bu değişkende `hayvan` ve `"kedi"`değeri bulunur:
+Bu değişkenin adı `hayvan` ve değeri `"kedi"`dir:
 
 ```javascript
 var hayvan = "kedi";
 ```
 
-Bu değişkende `skor` ve `30`değeri bulunur:
+Bu değişkenin adı ise `skor` ve değeri `30`'dur:
 
 ```javascript
-var puan = 30;
+var skor = 30;
 ```
 
-Bir değişken oluşturmak için, ona bir isim verin ve bir değere eşit olarak ayarlayın. Değişkenin adı her zaman sonra gider `var`ve boşluk içermemelidir.
+Bir değişken oluşturmak için ona bir isim verin ve bir değere eşit olarak ayarlayın. Değişkenin adı her zaman `var`'dan sonra gelir ve boşluk içermemelidir.
