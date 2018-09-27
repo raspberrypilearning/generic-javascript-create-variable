@@ -1,15 +1,15 @@
 Egy változó lehetővé teszi a programon belüli adatok tárolását. A változóknak van neve és értéke.
 
-Ez a változó neve `állat` és `érték "cat"`:
+Az alábbi változó neve `allat` és az értéke `"macska"`:
 
 ```javascript
-var állat = "macska";
+var allat = "macska";
 ```
 
-Ez a változó neve `pont` és érték `30`:
+Az alábbi változó neve `pont` és az értéke `30`:
 
 ```javascript
-var eredmény = 30;
+var pont = 30;
 ```
 
-Egy változó létrehozásához adja meg neki egy nevet, és állítsa be egy értéknek. A változó neve mindig `var`után megy, és nem tartalmazhat szóközöket.
+Egy változó létrehozásához adj neki egy nevet, és állítsd be egy értékre. A változó neve mindig `var` után következik, és nem tartalmazhat szóközöket.
