@@ -12,4 +12,4 @@ Ta zmienna ma nazwę `wynik` i wartość liczbową `30`:
 var score = 30;
 ```
 
-Aby utworzyć zmienną, nadaj jej nazwę i przypisz do niej wartość za pomocą operatora =. Nazwa zmiennej zawsze występuje po `var` i nie może zawierać spacji.
+Aby utworzyć zmienną, nadaj jej nazwę i przypisz do niej wartość. Nazwa zmiennej zawsze występuje po `var` i nie może zawierać spacji.
