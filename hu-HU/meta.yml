@@ -1,13 +1,13 @@
 ---
-title: Hozzon létre egy változót a JavaScript-ben
-hero_image: images / banner.png
-description: Ismerje meg, hogyan lehet létrehozni egy változót a JavaScript-ben
-theme: piros
+title: Hozz létre egy változót JavaScriptben
+hero_image: images/banner.png
+description: Tanuld meg, hogyan lehet létrehozni egy változót JavaScriptben
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: alkotó, design-0, programozás-0, fiz-comp-0, gyártás-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: ""
 site_areas:
