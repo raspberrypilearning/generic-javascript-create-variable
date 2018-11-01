@@ -1,6 +1,6 @@
 Promjenljiva omogućuje skladištenje podataka unutar programa. Promjenljive imaju naziv i vrijednost.
 
-Ova promjenljiva ima naziv `zivotinja` i vrijednost `macka`:
+Ova promjenljiva ima naziv `zivotinja` i vrijednost `''macka''`:
 
 ```javascript
 var zivotinja = "macka";
@@ -12,4 +12,4 @@ Ova promjenljiva ima naziv `rezultat` i vrijednost `30`:
 var rezultat = 30;
 ```
 
-Da kreiraš promjenljivu, daj joj naziv i postavi da je jednaka nekoj vrijednosti. Naziv promjenljive uvijek se piše nakon `var` i ne smije da sadrži razmake.
+Da kreiraš promjenljivu, daj joj naziv i dodijeli joj vrijednost. Naziv promjenljive uvijek se piše nakon `var` i ne smije da sadrži razmake.
