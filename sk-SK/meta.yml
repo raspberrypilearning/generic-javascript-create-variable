@@ -1,16 +1,16 @@
 ---
 title: Vytvorte premennú v jazyku JavaScript
-hero_image: images / banner.png
-description: Zistite, ako vytvoriť premennú v jazyku JavaScript
-theme: červená
+hero_image: images/banner.png
+description: Naučíte sa, ako vytvoriť premennú v jazyku JavaScript
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: tvorca, dizajn-0, programovanie-0, phys-comp-0, výroba-0, komunita-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: ""
 site_areas:
 steps:
   - 
-    title: úvod
+    title: Úvod
