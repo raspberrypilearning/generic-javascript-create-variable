@@ -1,15 +1,15 @@
-Premenná vám umožňuje ukladať dáta v rámci programu. Premenné majú názov a hodnotu.
+Premenná umožňuje ukladať dáta v rámci programu. Premenné majú názov a hodnotu.
 
-Táto premenná má názov `zviera` a hodnota `"mačka"`:
-
-```javascript
-var zviera = "mačka";
-```
-
-Táto premenná má názov `skóre` a hodnotu `30`:
+Táto premenná má názov `zviera` a hodnotu `"macka"`:
 
 ```javascript
-var skóre = 30;
+var zviera = "macka";
 ```
 
-Ak chcete vytvoriť premennú, uveďte jej názov a nastavte ju ako hodnotu. Názov premennej vždy prechádza po `var`a nesmie obsahovať žiadne medzery.
+Táto premenná má názov `body` a hodnotu `30`:
+
+```javascript
+var body = 30;
+```
+
+Ak chcete vytvoriť premennú, uveďte jej názov a nastavte jej hodnotu. Názov premennej vždy nasleduje po `var`a nesmie obsahovať žiadne medzery.
