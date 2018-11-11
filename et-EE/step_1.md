@@ -1,15 +1,15 @@
 Muutuja võimaldab salvestada andmeid programmi sees. Muutujatel on nimi ja väärtus.
 
-Selle muutuja nimi `looma` ja väärtus `"kass"`:
+Selle muutuja nimi on `loom` ja väärtus `"kass"`:
 
 ```javascript
-var animal = "kass";
+var animal = "cat";
 ```
 
-Sellel muutuja puhul on nimi `skoor` ja väärtus `30`:
+Selle muutuja nimi on `skoor` ja väärtus `30`:
 
 ```javascript
-var skoor = 30;
+var score = 30;
 ```
 
-Muutuja loomiseks anna sellele nimi ja seada see väärtusega võrdseks. Muutuja nime muutub alati `var`ja see ei tohi sisaldada tühikuid.
+Muutuja loomiseks anna sellele nimi ja võrdsusta see väärtusega. Muutuja nime tuleb alati pärast `var` ja see ei tohi sisaldada tühikuid.
