@@ -1,13 +1,13 @@
 ---
-title: Loo muutuja JavaScript
-hero_image: images / banner.png
-description: Lugege, kuidas luua muutuja JavaScript
-theme: punane
+title: Defineeri muutuja JavaScriptis
+hero_image: images/banner.png
+description: Õpi muutuja defineerimist kasutades JavaScripti
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: looja, disain-0, programmeerimine-0, phys-comp-0, production-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: ""
 site_areas:
