@@ -1,4 +1,4 @@
-Premenná umožňuje ukladať dáta v rámci programu. Premenné majú názov a hodnotu.
+Do premennej je možné ukladať dáta v rámci programu. Premenné majú názov a hodnotu.
 
 Táto premenná má názov `zviera` a hodnotu `"macka"`:
 
