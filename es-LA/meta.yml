@@ -2,7 +2,7 @@
 title: Create a variable in JavaScript
 hero_image: images/banner.png
 description: Learn how to create a variable in JavaScript
-theme: red
+theme: rojo
 duration: 1
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Robot parlanchín
