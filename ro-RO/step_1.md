@@ -1,9 +1,9 @@
-O variabilă vă permite să stocați date în cadrul unui program. Variabilele au un nume și o valoare.
+O variabilă îți permite să stochezi date în cadrul unui program. Variabilele au un nume și o valoare.
 
-Această variabilă are numele `animal` și valoarea `"pisică"`:
+Această variabilă are numele `animal` și valoarea `"pisica"`:
 
 ```javascript
-var animal = "pisică";
+var animal = "pisica";
 ```
 
 Această variabilă are numele `scor` și valoarea `30`:
@@ -12,4 +12,4 @@ Această variabilă are numele `scor` și valoarea `30`:
 var scor = 30;
 ```
 
-Pentru a crea o variabilă, dați-i un nume și setați-o la o valoare. Numele variabilei vine întotdeauna după `var` și nu trebuie să conțină niciun spațiu.
+Pentru a crea o variabilă, dă-i un nume și seteaz-o la o valoare. Numele variabilei vine întotdeauna după `var` și nu trebuie să conțină niciun spațiu.
