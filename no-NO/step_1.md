@@ -12,4 +12,4 @@ Denne variabelen har navnet `poengsum` og verdien `30`:
 var poengsum = 30;
 ```
 
-For å opprette en variabel, gi den et navn og sett det til en verdi. Navnet på variabelen går alltid etter `var`, og det må ikke inneholde mellomrom.
+For å opprette en variabel, gi den et navn og sett den til en verdi. Navnet på variabelen står alltid etter `var`, og det må ikke inneholde mellomrom.
