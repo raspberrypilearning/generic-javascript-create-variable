@@ -1,5 +1,5 @@
 ---
-title: Створіть змінну в JavaScript
+title: Створення змінної в JavaScript
 hero_image: images/banner.png
 description: Дізнайтеся, як створити змінну в JavaScript
 theme: red
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: З днем народження
+    title: Вступ
