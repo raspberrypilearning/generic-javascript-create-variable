@@ -1,9 +1,9 @@
 ---
-title: Javascript හි කාර්යයක්(function එකක්) නිර්මාණය කිරීම 
+title: Javascript හි වේරියබල් එකක් (විචල්යයක්) නිර්මාණය කිරීම
 hero_image: images / banner.png
-description: JavaScrit මගින් කාර්යයක්(function එකක්) නිර්මාණය කරන්නේ කෙසේදැයි ඉගෙන ගැනීම
-theme: රතු
-duration: 1
+description: JavaScrit මගින් වේරියබල් එකක් නිර්මාණය කරන්නේ කෙසේදැයි ඉගෙන ගැනීම
+theme: රතු #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
