@@ -2,8 +2,8 @@
 title: Hada abun yi a javascript
 hero_image: hotuna/banner
 description: Koya yanda ake hada abu indan akayi amfani da Javascript
-theme: ja
-duration: 0
+theme: ja #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 0 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
