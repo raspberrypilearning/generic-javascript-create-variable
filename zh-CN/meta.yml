@@ -2,8 +2,8 @@
 title: 创建一个JavaScript变量
 hero_image: images/banner.png
 description: 学习如何在 JavaScript 中创建变量
-theme: 红
-duration: 1
+theme: 红 #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
