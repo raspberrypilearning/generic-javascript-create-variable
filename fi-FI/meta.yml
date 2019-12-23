@@ -2,8 +2,8 @@
 title: Luo muuttuja JavaScript-muodossa
 hero_image: Kuvien / banner.png
 description: Opi muokkaamaan JavaScript-muuttuja
-theme: punainen
-duration: 1
+theme: punainen #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
