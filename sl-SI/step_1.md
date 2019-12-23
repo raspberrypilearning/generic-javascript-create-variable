@@ -1,15 +1,15 @@
 Spremenljivka vam omogoča shranjevanje podatkov znotraj programa. Spremenljivke imajo ime in vrednost.
 
-Ta spremenljivka ima ime `žival` in vrednost `"mačka"`:
+Ta spremenljivka ima ime `animal` (žival) in vrednost `"cat"` (mačka):
 
 ```javascript
-var žival = "mačka";
+var animal = "cat";
 ```
 
-Ta spremenljivka ima ime `rezultat` in vrednost `30`:
+Ta spremenljivka ima ime `score` (rezultat) in vrednost `30`:
 
 ```javascript
-var rezultat = 30;
+var score = 30;
 ```
 
-Če želite ustvariti spremenljivko, ji dajte ime in ga nastavite na vrednost. Ime spremenljivke vedno gre za `var`in ne sme vsebovati nobenih presledkov.
+Če želite ustvariti spremenljivko, ji dajte ime in jo nastavite na vrednost. Ime spremenljivke mora biti za `var`in ne sme vsebovati nobenih presledkov.
