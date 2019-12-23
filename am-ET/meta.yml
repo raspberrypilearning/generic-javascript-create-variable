@@ -2,8 +2,8 @@
 title: በ ጃቫስክሪፕት ውስጥ ተለዋዋጭ ፍጠር
 hero_image: images / banner.png
 description: በ ጃቫስክሪፕት ውስጥ አንድ ተለዋዋጭ እንዴት እንደሚፈጥር ይወቁ
-theme: ቀይ
-duration: 1
+theme: ቀይ #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
