@@ -1,15 +1,15 @@
-A variable allows you to store data within a program. Variables have a name and a value.
+Proměnná ti umožňuje ukládat data uvnitř programu. Proměnné mají název a hodnotu.
 
-This variable has the name `animal` and the value `"cat"`:
-
-```javascript
-var animal = "cat";
-```
-
-This variable has the name `score` and the value `30`:
+Tato proměnná má název `zvire` a hodnotu `"kocka"`:
 
 ```javascript
-var score = 30;
+var zvire = "kocka";
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes after `var`, and it must not contain any spaces.
+Tato proměnná má název `skore` a hodnotu `30`:
+
+```javascript
+var skore = 30;
+```
+
+Pokud chceš vytvořit proměnnou, přiřaď mu název a nastav mu hodnotu. Název proměnné se píše vždy za `var` a nesmí obsahovat žádné mezery.
