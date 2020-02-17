@@ -1,13 +1,13 @@
 ---
-title: 在JavaScript中創建一個變量
-hero_image: 圖片/ banner.png
-description: 了解如何使用JavaScript創建變量
-theme: 紅 #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+title: 在 JavaScript 中創建一個變數
+hero_image: images/banner.png
+description: 學習如何在 JavaScript 中創建變數
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: 創作者，設計-0，編程-0，物理comp-0，製造-0，社區-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: ""
 site_areas:
