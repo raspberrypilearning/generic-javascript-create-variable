@@ -1,0 +1,16 @@
+---
+title: JavaScript-இல் ஒரு மாறியை உருவாக்கவும்
+hero_image: images/banner.png
+description: JavaScript-இல் ஒரு மாறியை எவ்வாறு உருவாக்குவது என்று கற்றுக்கொள்ளவும்
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: ""
+site_areas:
+steps:
+  - 
+    title: அறிமுகம்
