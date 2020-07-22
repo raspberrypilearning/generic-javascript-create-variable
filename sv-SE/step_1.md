@@ -1,15 +1,15 @@
-A variable allows you to store data within a program. Variables have a name and a value.
+Med en variabel kan du spara data i ditt program. Variabler har ett namn och innehåller ett värde.
 
-This variable has the name `animal` and the value `"cat"`:
-
-```javascript
-var animal = "cat";
-```
-
-This variable has the name `score` and the value `30`:
+Denna variabel har namnet `djur` och innehåller värdet `"katt"`:
 
 ```javascript
-var score = 30;
+var djur = "katt";
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes after `var`, and it must not contain any spaces.
+Denna variabel har namnet `summa` och innehåller värdet `30`:
+
+```javascript
+var summa = 30;
+```
+
+För att skapa en variabel, ger du den ett namn och tilldelar den ett värde. En variabels namn skriver du efter `var` och namnet får inte innehålla mellanslag.
