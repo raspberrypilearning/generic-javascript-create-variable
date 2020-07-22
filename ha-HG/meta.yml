@@ -1,7 +1,7 @@
 ---
-title: Hada abun yi a javascript
+title: Samar da ma'ajiyin bayanai, da yaran Na'ura maikwakwalwa na javascript
 hero_image: hotuna/banner
-description: Koya yanda ake hada abu indan akayi amfani da Javascript
+description: Koyi yanda ake samar da ma'ajiyin bayanai ta amfani da yaren Na'ura maikwakwalwa na Javascript
 theme: ja #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 0 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: ""
 site_areas:
 steps:
   - 
-    title: Gaisuwa
+    title: Gabatarwa
