@@ -1,15 +1,15 @@
-ஒரு நிரலின் உள்ளே தரவை சேமித்து வைக்க, ஒரு மாறி(variable) உங்களை அனுமதிக்கும். மாறிகள், ஒரு பெயரையும் மற்றும் ஒரு மதிப்பையும் கொண்டிருக்கும்.
+ஒரு நிரலின் உள்ளே தரவை சேமித்து வைக்க, மாறி(variable) உங்களை அனுமதிக்கும். மாறிகள், ஒரு பெயரையும் (name) மற்றும் ஒரு மதிப்பையும் (value) கொண்டிருக்கும்.
 
-This variable has the name `animal` and the value `"cat"`:
+இந்த மாறியின் பெயர் `animal` (விலங்கு) மற்றும் மதிப்பு `"cat"` (பூனை) ஆகும்:
 
 ```javascript
 var animal = "cat";
 ```
 
-This variable has the name `score` and the value `30`:
+இந்த மாறியின் பெயர் `score` (மதிப்பெண்) மற்றும் மதிப்பு `30` ஆகும்:
 
 ```javascript
 var score = 30;
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes after `var`, and it must not contain any spaces.
+ஒரு மாறியை உருவாக்க, அதற்கு ஒரு பெயரை கொடுக்கவும். பின், அதனை ஒரு மதிப்பிற்கு இணையாக அமைக்கவும். மாறியின் பெயர் எப்போதும் `var` என்பதை தொடர்ந்து இருக்க வேண்டும். மேலும், அதில் கண்டிப்பாக, எந்த இடைவெளிகளும் இருக்கக் கூடாது.
