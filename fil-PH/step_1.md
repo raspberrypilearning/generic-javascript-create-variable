@@ -1,6 +1,6 @@
 Pinapayagan ng isang variable na mag-imbak ng data sa loob ng isang programa. Ang mga variable ay may isang pangalan at isang halaga.
 
-Ang variable na ito ay may pangalang `hayop` at ang halaga ng `"pusa"`:
+Ang variable na ito ay may pangalang `hayop` at halagang `"pusa"`:
 
 ```javascript
 var hayop = "pusa";
