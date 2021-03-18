@@ -6,7 +6,7 @@
 var animal = "cat";
 ```
 
-এই ভেরিয়েবলের নাম `animal` এবং মান `"cat"`
+এই ভেরিয়েবলের নাম `score` এবং মান `30`:
 
 ```javascript
 var স্কোর = 30;
